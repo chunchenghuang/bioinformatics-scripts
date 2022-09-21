@@ -1,0 +1,6 @@
+##download gff file
+
+gffread my.gff3 -T -F -o my.gtf
+
+gffread GCF_902362185.1_fChaCha1.1_genomic.gff -T -F -o GCF_902362185.1_fChaCha1.1_genomic.gtf
+
