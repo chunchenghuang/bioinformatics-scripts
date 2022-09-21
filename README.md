@@ -1,4 +1,4 @@
-# bioinformatics_scripts
+# bioinformatics-scripts
 The old scripts I used for mostly series of bioinformatics tools execution
 
 ## script languages
